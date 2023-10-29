@@ -12,4 +12,4 @@ Full-Stack Web Developer for more than 3 years experience with a wide range of s
 - Udacity: Advanced Full-Stack JavaScript Web Development [2022].
 - Google: Fundamentals of Digital Marketing [2022].
 - Cisco: Introduction in CyberSecurity [2022].
-- }
+}
