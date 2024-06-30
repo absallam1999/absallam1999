@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My Name is Mohamed AbdElsallam Badr, 
-Full-Stack Software Engineer for more than 3 years Experience with a Wide Range of Programming Languages and Software Tools ..
+Full-Stack Software Engineer with a Wide Range of Programming Languages and Software Tools ..
 
 - 🎓 Bachelor's Degree in Computer Science [2022].
 - 🤝 Looking to collaborate on web Applications.
