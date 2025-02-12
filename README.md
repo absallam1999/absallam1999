@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # My Name is Mohamed Abd El-Salam Badr, 
-Passionate and driven Software Engineer with strong expertise in full-stack
-web development ..
+Passionate and Driven Software Engineer with Strong Expertise in Full-Stack
+Web Development.
 
 - 🎓 Bachelor's Degree in Computer Science [2022].
 - 🤝 Looking to collaborate on web Applications.
