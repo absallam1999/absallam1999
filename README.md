@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My Name is Mohamed Abd El-Salam Badr, 
-Highly Motivated Software Engineer Using No-Way as Way .. Having No Limitation as Limitation.
+Highly Motivated Software Engineer Using No-Way as Way .. Having No-Limitation as Limitation.
 
 - 🎓 Bachelor's Degree in Computer Science [2022].
 - 🤝 Looking to collaborate on web Applications.
